@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Maiesties pattentees for the erecting the manufacture of hard-waxe</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22186</idno>
+            <idno type="STC">STC 8594</idno>
+            <idno type="STC">ESTC S124154</idno>
+            <idno type="EEBO-CITATION">33149842</idno>
+            <idno type="OCLC">ocm 33149842</idno>
+            <idno type="VID">28495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:105)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Maiesties pattentees for the erecting the manufacture of hard-waxe</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waxes industry --  Great Britain --  Early works to 1800.</term>
+               <term>Monopolies --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28495:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>By his Maieſties Pattentees for the Erecting the Manufacture of Hard-waxe.</head>
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS THE KINGS moſt Excellent Maieſtie hath taken</hi> knowledge that <hi>Hard-waxe</hi> being vſefull and delightfull amonge his ſubiects, is become more frequent in theſe His Kingdomes then heretofore, and that it is for moſt part privately imported from forraine places beyond the ſeaes, without cuſtome or benifite to His Maieſtie, and ſome time with much deceite to the ſubiect thereby, and that ſome ſmale quantitie thereof by two or three vnskilfull perſons onely, hath ben of late time made in this His Kingdome. So as the Forrayner, or one or two ſtrangers, make vſe hereof, whereby it is ſold at a dearer rate to the ſubiects, then otherwiſe it may, be if it were made &amp; vſed as knowne manufacture in this kingdome, by perſons brought vp &amp; taught therein, as in other ſciences &amp; Trades, which are neceſſary for ſetting people to worke, and for breeding Commerce, which is the ayme of the ciuill Countreys and for ſupply of themſelues if poſſible aſwell as other kingdomes, in like manner with all neceſſary &amp; vſefull things by their owne induſtrey, as good and better cheape then from forrayne countryes, as for moſt part it is, which his Maieſtie graci<g ref="char:EOLhyphen"/>tiouſlly intending and alwayes tendring and affecting the good of His Subiects, and having taken knowledge, vppon due conſideration and examination hereof by His Counſell learned, and finding the making of <hi>Hard-waxe,</hi> not to be of any par<g ref="char:EOLhyphen"/>ticular Company, Trade or Science now vſed or eſtabliſhed, nor hurtfull but vſefull to his ſubiects in generall, to erect a Manufacture thereof being a matter of delight and conveniencie rather then of neceſſity, ſo as for reteyning the ſame in a moderate price and rate, leaſt the forraynnet from whence it is brought, finding it more vſefull here, ſhall inhaunce the price thereof, if it ſhall come onely from him, and it being vnder taken by his Pattentes, or his Deputies or Aſſignes, to be as well or better made heere, and that his kingdomes ſhalbe ſufficiently ſcerued. Hath thought fit, for there and like conſi<g ref="char:EOLhyphen"/>derations by His Highnes Letters Pattents vnder his great Seale of England, dated the Third of February laſt paſt, to graunt and declare that it ſhall become and be made a manufacture within this Kingdome, by ſuſſicient workemen well skilled therein, that hereafter ſervants or apprentice vnder them, being taught and practiſed in that Art, may come the true knowledge thereof, and from tune to time, be ſet on worke therein, as the vſe thereof ſhall increaſe, and thereby theſe his Kingdomes the better cheape ſerued and furniſhed. To which end, His Maieſtie hath alſo in and by his ſayd letters Pat<g ref="char:EOLhyphen"/>tents, among other thungs declared and ſignified His expreſſe will and pleaſure to be, that no <hi>Hard-wax</hi> hereafter ſhalbe im<g ref="char:EOLhyphen"/>ported into theſe his kingdomes by Marchants or others, Aiiens or naturals, vnder the penalty of Forfeiture and ſeizing thereof, and vndergoing the lawes and penalties to be incurred, for contempt of his royall pleaſure herein and alſo that no man within this his Kingdome otherwiſe then the Pattenties their Deputies or Aſſignes vnder like penalties and vnder payne of incuring his heauie diſpleaſure and ſenſure by the Lawes for diſobeying thereof ſhall preſume to make and vtter or cauſe to be made and vttered any <hi>Hard-waxe</hi> ſo priuately made but ſuch as ſhall be made or allowed by the Pattenties his Deputies and aſſignes. And that it ſhall be lawefull for the Pattentee and his Aſſignes from time to time for diſtinc<g ref="char:EOLhyphen"/>tion of their <hi>Wax</hi> by them made from others ſo priuately made or imported, to impoſe any marke or marks, and to ſeiz and take that which ſhall not be ſo marked. Giuing heereby further notice, that all Shopkeepers, who haue vſually or ſhall vſually ſell the ſame, ſhalbe ſerued by the pound or waight, with as good and better <hi>Wax,</hi> without want and better cheape, then for the moſt part the like is, or hath ben ſold heretofore, whereof all thoſe ſhopkeepers whom this may concerne, ſhall haue further knowledge by a declaration in Print whether to repayre for the ſame, to be furniſhed, by or before the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  next comming, and in the meane time, Theſe preſents ſhalbe ſufficient to giue knowledge of His Maieſties pleaſure herein, to all whom this ſhall concerne, whereof it they doubt, they may repayre to the houſe of <hi>Sir Henry Breton Knight,</hi> in <hi>Drurie Lane.</hi> to ſee His Maieſties letters Pattents to this purpoſe, if they deſire to be further ſatiſfied herein.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>Dat Tra<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> 
+                        <abbr>paten</abbr> 3 Februarij 16 Jacobi 1618</add>
+                  </date>
+               </dateline>
+               <lb/>God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
